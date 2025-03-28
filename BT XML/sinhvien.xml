@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student id="1">
+        <ten>vu</ten>
+        <msv>21</msv>
+        <lop>24ce</lop>
+    </student>
+    <student id="2">
+        <ten>Sang</ten>
+        <msv>2</msv>
+        <lop>24ce</lop>
+    </student>
+</students>
