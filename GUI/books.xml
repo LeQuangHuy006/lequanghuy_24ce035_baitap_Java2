@@ -1,0 +1,22 @@
+<books>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <publisher>Bloomsbury</publisher>
+        <pages>223</pages>
+        <genre>Fantasy</genre>
+        <price>200000</price>
+        <isbn>978-0-7475-3269-9</isbn>
+    </book>
+    <book>
+        <title>Đắc Nhân Tâm</title>
+        <author>Dale Carnegie</author>
+        <year>1936</year>
+        <publisher>NXB Trẻ</publisher>
+        <pages>320</pages>
+        <genre>Self-help</genre>
+        <price>180000</price>
+        <isbn>978-0-7432-9745-6</isbn>
+    </book>
+</books>
